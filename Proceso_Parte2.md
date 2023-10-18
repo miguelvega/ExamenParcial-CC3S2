@@ -13,6 +13,9 @@ Gemfile.
 Ahora que tenemos el framework de nuestra aplicación, edefinimos los modelos de la aplicación. En otras palabras, ¡vamos a crear la clase "Todo"!. El comando rails Generate es una poderosa herramienta que nos ayuda a hacer precisamente eso.
 
 ![Captura de pantalla de 2023-10-18 09-21-55](https://github.com/miguelvega/ExamenParcial-CC3S2/assets/124398378/19bc511d-b145-4f6d-aeee-5f319dfb09a7)
+
+Debido a problemas de configuracion de mi maquina, solo pude enviar capturas sin explicacion. 
+
 ![Captura de pantalla de 2023-10-18 09-27-39](https://github.com/miguelvega/ExamenParcial-CC3S2/assets/124398378/44f928d0-2b26-4a5b-b9e0-bcf5a9c5b9ad)
 
 ![Captura de pantalla de 2023-10-18 09-30-50](https://github.com/miguelvega/ExamenParcial-CC3S2/assets/124398378/1cb4f441-4421-400f-b0e8-ceea2b06ac28)
